@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000330_0000_0FA4AD5915B1F480"/>
-            <pb facs="tcp:000330_0001_0FA4AD59699E53D0" rendition="simple:additions"/>
+            <pb facs="unknown:000330_0000_0FA4AD5915B1F480"/>
+            <pb facs="unknown:000330_0001_0FA4AD59699E53D0"
+                rendition="simple:additions"/>
             <p>THE Possibility of Gods For<g ref="char:EOLhyphen"/>saking a people, That have been visibly near &amp; dear to him TOGETHER, With the Misery of a People thus forsaken, Set forth in a SERMON, Preached at <hi>Weathersfield,</hi> Nov. 21. 1678.</p>
             <p>Being a Day of FAST and HU<g ref="char:EOLhyphen"/>MILIATION.</p>
             <p>By Mr. <hi>Joseph Rowlandson</hi> Pastor of the Church of Christ there. Being also his last SERMON,</p>
@@ -138,7 +139,7 @@
             <p>BOSTON in <hi>NEW-ENGLAND</hi> Printed for <hi>John Ratcliffe, &amp; John Griffin.</hi> 1682.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:000330_0002_0FA4AD5CDCE3CC38"/>
+            <pb facs="unknown:000330_0002_0FA4AD5CDCE3CC38"/>
             <head>To the Courteous READER, (especially the Inhabitants of the Town of <hi>Weathersfield,</hi> and <hi>Lancaster,</hi> in <hi>New-England.</hi>
             </head>
             <p>GOds forsaking of such as he hath been near to <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -190,7 +191,8 @@
                </gap>ity, is, in that it was the last word be sp<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ke to the
-<pb facs="tcp:000330_0003_0FA4AD5EA91DE100" rendition="simple:additions"/>
+<pb facs="unknown:000330_0003_0FA4AD5EA91DE100"
+                   rendition="simple:additions"/>
 World, being but about two dayes before he left it. As it is solemn, so 'tis seasonable, and pertinent. It is a time wherein we have giv<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n God just cause to forsake us, a time wherein God is threatning to for<g ref="char:EOLhyphen"/>sake us. A time wherein God hath in some mea<g ref="char:EOLhyphen"/>sure forsaken us already, and what can be more sea<g ref="char:EOLhyphen"/>sonable, then to shew the evils that befall a forsaken People, that we may yet be awakened, and return, that the Lord do not forsake us utterly.</p>
@@ -201,7 +203,7 @@ World, being but about two dayes before he left it. As it is solemn, so 'tis sea
                </gap> this small part of his labours. It is <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> especially to the perusal of the Inhabitants of <hi>Lancaster</hi> and <hi>Weathersfield</hi>: He was a Man well known to you, the one had his Life, and the other his death; and both his loss, you cannot easily for<g ref="char:EOLhyphen"/>get his name, and 'tis desired that you may not forget the labour and travel, he hath had amongst you<g ref="char:punc">▪</g> the word which he Preached to you was acceptable whilst he was living, and it is presumed it will be accepted with the like candor now he is dead. In<g ref="char:EOLhyphen"/>deed had it been intended, and fitted by himself for the Press, you might have expected, and found it more
-<pb facs="tcp:000330_0004_0FA4AD5EC4FA5678"/>
+<pb facs="unknown:000330_0004_0FA4AD5EC4FA5678"/>
 large, and polished; but as it is, it is thought f<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>
@@ -215,7 +217,7 @@ large, and polished; but as it is, it is thought f<gap reason="illegible" resp="
       </front>
       <body>
          <div type="sermon">
-            <pb n="1" facs="tcp:000330_0005_0FA4AD612D25FFA8"/>
+            <pb n="1" facs="unknown:000330_0005_0FA4AD612D25FFA8"/>
             <epigraph>
                <q>
                   <bibl>
@@ -232,7 +234,7 @@ large, and polished; but as it is, it is thought f<gap reason="illegible" resp="
             <p n="1">1. An expression of Indignation, <hi>What burden?</hi>
             </p>
             <p n="2">
-               <pb n="2" facs="tcp:000330_0006_0FA4AD61BB0BEFB0"/>2. An assertion by way of Answer to the que<g ref="char:EOLhyphen"/>stion, <hi>I will forsake you.</hi>
+               <pb n="2" facs="unknown:000330_0006_0FA4AD61BB0BEFB0"/>2. An assertion by way of Answer to the que<g ref="char:EOLhyphen"/>stion, <hi>I will forsake you.</hi>
             </p>
             <p n="3">3. A Seal of ratification, in the last words, <hi>Saith the Lord.</hi>
             </p>
@@ -294,7 +296,7 @@ large, and polished; but as it is, it is thought f<gap reason="illegible" resp="
                   <desc>〈◊〉</desc>
                </gap> demand, what <hi>burden</hi> he had from the Lord<g ref="char:punc">▪</g> for them.</p>
             <p>
-               <pb n="3" facs="tcp:000330_0007_0FA4AD6278A6FDA0"/>For the opening of the words. And: or moreover because he here enters upon new matter: <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="3" facs="unknown:000330_0007_0FA4AD6278A6FDA0"/>For the opening of the words. And: or moreover because he here enters upon new matter: <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
                <hi>People,</hi> or the proph<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -324,7 +326,7 @@ large, and polished; but as it is, it is thought f<gap reason="illegible" resp="
                <g ref="char:EOLhyphen"/>sion? are you of that strain, and spirit? I will even forsake you saith the Lord a burden hea<g ref="char:EOLhyphen"/>vy enough, and you <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>e like to feel it so ere long<g ref="char:punc">▪</g> heavy enough to break your Backs, to break your Church, and your Common wealth, and to
-<pb n="4" facs="tcp:000330_0008_0FA4AD63A1C1A1D0"/>
+<pb n="4" facs="unknown:000330_0008_0FA4AD63A1C1A1D0"/>
 sink your haughty Spirits, when this Burden shall come upon you, in its force and weight.</p>
             <p>Doct. <hi>That the Lord may even forsake a Peo<g ref="char:EOLhyphen"/>ple that have been near to him, and he hath been near to, though for the Lord thus to do, is as fearful and <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -350,7 +352,7 @@ sink your haughty Spirits, when this Burden shall come upon you, in its force an
                </gap> Gods withdrawing himself, as <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Prophet <hi>Hosea</hi> phraises it, <hi>Hos.</hi> 5.6. <hi>They shall go with their Flocks and their Herds to seek the Lord, but shall not find him, he hath withdrawn himself from them.</hi> They shall seek him, and not find him, and there is a good reason, he hath
-<pb n="5" facs="tcp:000330_0009_0FA4AD63F3946820"/>
+<pb n="5" facs="unknown:000330_0009_0FA4AD63F3946820"/>
 withdrawn himself, he is gone, in respect of his gracious presence. We must here distinguish betwixt Gods general presence, and his precious presence. In respect of his general presence, he is not far from any one of us, <hi>for in him we live, and move, and have our being, Act.</hi> 17.27, 28. We have not only our beginning from, but our being in him. As the beam h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>th its being in the Sun<g ref="char:punc">▪</g> Of this general presence of God, we read, <hi>Psal.</hi> 139.7. There is no flying from it. <hi>Whither shall I go from thy Spirit, or whither shall I flie from thy presence?</hi> In this sense God is every where, as it is <hi>ver.</hi> 8, &amp; 9. <hi>If I ascend up into Heaven thou art there<g ref="char:punc">▪</g> if I make my bed in Hell, behold thou art there.</hi> He fills Heaven and Earth, and there is no hiding from him, <hi>Jer.</hi> 23.24. <hi>Can any hide himself in secret places, that I shall not see him,? saith the Lord do not I fill Heaven and Earth? saith the Lord.</hi> He hath Heaven for his Throne, and the Earth for his Foo<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -397,7 +399,7 @@ withdrawn himself, he is gone, in respect of his gracious presence. We must here
                   <desc>〈…〉</desc>
                </gap> Action.</p>
             <p n="1">
-               <pb n="6" facs="tcp:000330_0010_0FA4AD64ACE2F398"/>1. As to Affection, when he discontinues his love to them, when he takes away his love from a people, then he takes his leave of a people. <hi>My mind is not toward this people,</hi> Jer. 15.1. a ve<g ref="char:EOLhyphen"/>ry heavy Judgement, and sad removal. Be in<g ref="char:EOLhyphen"/>structed O <hi>Jerusalem, least my Soul depart from thee.</hi>
+               <pb n="6" facs="unknown:000330_0010_0FA4AD64ACE2F398"/>1. As to Affection, when he discontinues his love to them, when he takes away his love from a people, then he takes his leave of a people. <hi>My mind is not toward this people,</hi> Jer. 15.1. a ve<g ref="char:EOLhyphen"/>ry heavy Judgement, and sad removal. Be in<g ref="char:EOLhyphen"/>structed O <hi>Jerusalem, least my Soul depart from thee.</hi>
             </p>
             <p n="2">2. As to Action, when God takes away the signs of his presence.</p>
             <p n="1">1. When he takes away merciful and graci<g ref="char:EOLhyphen"/>ous providences, when he c<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -418,7 +420,7 @@ withdrawn himself, he is gone, in respect of his gracious presence. We must here
                </gap> God hath threatned, to such as the point speaks of, may be inflicted on them: but God <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ath threatned such judgements to such a peo<g ref="char:EOLhyphen"/>ple. My anger shall be kindled against them,
-<pb n="7" facs="tcp:000330_0011_0FA4AD65712AF9A0"/>
+<pb n="7" facs="unknown:000330_0011_0FA4AD65712AF9A0"/>
 and I will forsake them, as near as they are to me, and as dear as they have been to to me<g ref="char:punc">▪</g> 
                <hi>Deut</hi> 31.17. Many such threatnings are found in the Scri<g ref="char:EOLhyphen"/>pture against <hi>Israel,</hi> who are stiled a people near unto him.</p>
             <p>In h<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -438,7 +440,7 @@ and I will forsake them, as near as they are to me, and as dear as they have bee
             <p>In that they may do that, which may deserve a forsaking, therefore they may do that which may actually procu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e it. They may do that
-<pb n="8" facs="tcp:000330_0012_0FA4AD665D1CCA10"/>
+<pb n="8" facs="unknown:000330_0012_0FA4AD665D1CCA10"/>
 which may deserve a forsaking, they may through the corruption and unbelief of their hearts for<g ref="char:EOLhyphen"/>sake God, and God may injust judgement reta<g ref="char:EOLhyphen"/>liate, and thereupon forsake them. This is spo<g ref="char:EOLhyphen"/>ken to in the forequoted place, <hi>Deut.</hi> 31.16, 17. <hi>They will forsake me, and break my Covenant which I have made with them: then my anger shall be kindled against them in that day, and I will for<g ref="char:EOLhyphen"/>sake them, and hide my face from them.</hi> So again, 2 Chron. 15.2. <hi>But if you forsake him he will for<g ref="char:EOLhyphen"/>sake you</hi>; the first is supposed, <hi>if you forsake him,</hi> the latter is imposed, <hi>he will forsake you</hi>
                <g ref="char:punc">▪</g>
             </p>
@@ -453,7 +455,7 @@ which may deserve a forsaking, they may through the corruption and unbelief of t
             <p n="3">3. To be a war<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ing to all that enjoy his gra<g ref="char:EOLhyphen"/>cious presence. That they see that they make much of it, and that they take heed that they
-<pb n="9" facs="tcp:000330_0013_0FA4AD66FB1AFF28"/>
+<pb n="9" facs="unknown:000330_0013_0FA4AD66FB1AFF28"/>
 do not sin against him, and forsake him, and pro<g ref="char:EOLhyphen"/>voke him to forsake them also.</p>
             <p>
                <hi>Cant.</hi> The point is to be understood of a peo<g ref="char:EOLhyphen"/>ple that are visibly and externally near and dear to him, and these may be totally and finally for<g ref="char:EOLhyphen"/>saken of God: and yet here it must be noted, that God may exercise a deal of patience, and forbearance toward such as he is about to forsake, he did so with the old world, he did so with the <hi>Israelites</hi> of old, he did so with the seven Chur<g ref="char:EOLhyphen"/>ches of <hi>Asia</hi>: he is not wont suddenly, and at once to forsake a people, that have been near and dear to him; but he is wont to give them warn<g ref="char:EOLhyphen"/>ing, and in patience to bear a while with their frowardness, and wait to see if there be any re<g ref="char:EOLhyphen"/>turning to him, before he doth inflict this heavy and sharp judgement.</p>
@@ -461,7 +463,7 @@ do not sin against him, and forsake him, and pro<g ref="char:EOLhyphen"/>voke hi
                <hi>Vse</hi> It serves to admonish us, not to bear our selves too high, upon the account of priviledges. It is a great priviledge to have the Lord near us, and to be near unto him: and some lean upon this though they abide in their sin, <hi>Micah</hi> 3.10, 11. <hi>They build up Sion with blood, and Jerusalem with ini<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>uity, yet will they lean upon the Lord, and say, is not the Lord amongst us?</hi> But if our de<g ref="char:EOLhyphen"/>portment be not according to our priviledges, if we do not carry it thereafter, by becoming an humble, fruitful, and holy people; the Lord will bring forth this heavy burden against us, we shall be rejected, and forsaken of the Lord, what<g ref="char:EOLhyphen"/>ever
-<pb n="10" facs="tcp:000330_0014_0FA4AD67AA7B9858"/>
+<pb n="10" facs="unknown:000330_0014_0FA4AD67AA7B9858"/>
 our external priviledges be.</p>
             <p>But the second part of the Doctrine; or the second Doctrine may be now spoken to, <hi>viz.</hi>
             </p>
@@ -501,7 +503,7 @@ our external priviledges be.</p>
                </gap>en down. Our strength <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> that's Gone, for God
-<pb n="11" facs="tcp:000330_0015_0FA4AD68706DDB90"/>
+<pb n="11" facs="unknown:000330_0015_0FA4AD68706DDB90"/>
 is our strength, as a carcase without life, is a prey, to beasts or prey; so are a people forsa<g ref="char:EOLhyphen"/>ken of their God, to all their devouring enemi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>s, and to infernal, and cursed spirits: they are ex<g ref="char:EOLhyphen"/>posed to mischief, and the malice of all their ma<g ref="char:EOLhyphen"/>lignant enemies. When the Lord had forsaken <hi>Jerusalem,</hi> the <hi>Romans</hi> quickly made a prey of it<g ref="char:punc">▪</g> when they were destitute of God, their h<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -511,13 +513,13 @@ is our strength, as a carcase without life, is a prey, to beasts or prey; so are
                </gap>; but they are perplexed on every side.</p>
             <p n="3">3. Because the evils that are on such, whom God hath forsaken<g ref="char:punc">▪</g> they are only evils. The Prophet <hi>Ezekiel</hi> sometime hath the expression, <hi>Ezek.</hi> 7.5. <hi>Thus saith the Lord God, an evil, an only evil behold is come.</hi> This is such an evil, an only evil to a people. An evil whilst God is present, may have much good in it, the Lord may sancti<g ref="char:EOLhyphen"/>fie it for abundance of blessing: there is hopes of this whilst the Lord continues amongst them; but if he be gone, it is an only evil, and the evils that come upon them are such, they have no<g ref="char:EOLhyphen"/>thing but evil in them.</p>
             <p n="4">4. Because no creature can then afford any help; for what can creatures do when God is departed, he makes the creatures useful and help<g ref="char:EOLhyphen"/>ful, but without him they can do us no good, stand us in no stead<g ref="char:punc">▪</g> they may say to thee as the King of <hi>Israel,</hi> said to the Woman, that cried <hi>Help O King,</hi> He answered, <hi>If the Lord dont
-<pb n="12" facs="tcp:000330_0016_0FA4AD6927D3B978"/>
+<pb n="12" facs="unknown:000330_0016_0FA4AD6927D3B978"/>
 help, whence shall I help thee?</hi> all creatures may say if God be departed, <hi>we cannot help:</hi> Nay the very Devil cannot help if God be gone: when God departed from <hi>Saul,</hi> he sought help from the Devil, 1 <hi>Sam.</hi> 28.15. <hi>Wherefore</hi> (saith the Devil) <hi>askest thou of me? seeing the Lord is de<g ref="char:EOLhyphen"/>parted from thee.</hi>
             </p>
             <p n="5">5. It appears to be a sore judgement, by the an<g ref="char:EOLhyphen"/>guish and distress, that such have been in, that have been sensible that God hath forsaken them. Sin hath flown in the face of such, and terified them: Oh the blessed God is gone, and if he is gone, mercy is gone; and Oh for such and such sins, that lie upon me! what shall I do? what a moan have Saints themselves made in such a case? as <hi>David,</hi> Psal. 22.1.2. <hi>My God, my God, why hast thou forsaken me? Why art thou so far from helping me? and from the words of my roaring? Oh my God, I cry in the day time, but thou hearest not, and in the night season, and am not silent.</hi> Oh how <hi>Saul</hi> roared out his distress! and that on this account especially, that God was departed from him, not so much that the <hi>Philistines</hi> were upon him, had not God been gone, he could have dealt well enough with them; but here was the misery, and the sting of the misery, <hi>God was de<g ref="char:EOLhyphen"/>parted from him.</hi>
             </p>
             <p n="6">6 It is a sore punishment, in that it is a great part of the punishment of Hell. The essential parts of that punishment, is pain of loss, and sense,
-<pb n="13" facs="tcp:000330_0017_0FA4AD6A45C60318"/>
+<pb n="13" facs="unknown:000330_0017_0FA4AD6A45C60318"/>
 and the former some reckon the greater.</p>
             <p>
                <hi>Vs<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -589,7 +591,7 @@ and the former some reckon the greater.</p>
                </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>aken the Lord? He adds in the 31. <hi>verse. Oh Generation!</hi> Generation of what? of what you will; God
-<pb n="14" facs="tcp:000330_0018_0FA4AD6AAEC870C0"/>
+<pb n="14" facs="unknown:000330_0018_0FA4AD6AAEC870C0"/>
 leaves a space that you may write, what y<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>u please, generation of Vipers, or Monsters, or any thing rather then Generation of Gods peo<g ref="char:EOLhyphen"/>ple. See ye th<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -623,7 +625,7 @@ leaves a space that you may write, what y<gap reason="illegible" resp="#PDCC" ex
             <p n="4">4. If Gods for<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>aking be so sore a judgement, it should make us more cautelous, and wary least we pull down this judgement on our heads Men
-<pb n="15" facs="tcp:000330_0019_0FA4AD6DC285FF00"/>
+<pb n="15" facs="unknown:000330_0019_0FA4AD6DC285FF00"/>
 should be afraid of this heaviest of judgements<g ref="char:punc">▪</g> more <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>hen the Child of whipping.</p>
@@ -734,7 +736,7 @@ should be afraid of this heaviest of judgements<g ref="char:punc">▪</g> more <
                   <desc>〈…〉</desc>
                </gap>? see how he hath served me.</p>
             <p n="3">
-               <pb n="16" facs="tcp:000330_0020_0FA4AD710527D300"/>3. They will seek him, till he return again, when t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="16" facs="unknown:000330_0020_0FA4AD710527D300"/>3. They will seek him, till he return again, when t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e Lord forsakes o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -889,7 +891,7 @@ should be afraid of this heaviest of judgements<g ref="char:punc">▪</g> more <
                </gap> of Affliction or grievous <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> grievous stroak. God hath
-<pb n="17" facs="tcp:000330_0021_0FA4AD71805CC218"/>
+<pb n="17" facs="unknown:000330_0021_0FA4AD71805CC218"/>
 shewed himself loth to depart from those that have departed from him; but have warned them of his displeasure, that they might stay him. It goes near Gods heart to forsake a People that have been near to him. Methinks I hear him saying thus, <hi>How shall I give thee up, Oh New-England</hi>! thence speaking to warn us, of our forsakings of him, and to be instructed, why? least his Spirit depart from us, <hi>Jer.</hi> 6.8. <hi>Be thou instructed Oh Ierusalem, least my Soul depart from thee, least I make thee desolate, a land not inhabited.</hi> You may easily stay him, the matter is not so far gone, but you might yet stay him were we but as loth he should forsake us, as he is to forsake us, he would never leave us. His g<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>adual mo<g ref="char:EOLhyphen"/>tions from a people argue his lothness, and un<g ref="char:EOLhyphen"/>willingness to leave them.</p>
@@ -902,7 +904,7 @@ shewed himself loth to depart from those that have departed from him; but have w
                   </gap>ss thou art our Father.</hi> Can child<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>en
-<pb n="18" facs="tcp:000330_0022_0FA4AD745FFB9F40"/>
+<pb n="18" facs="unknown:000330_0022_0FA4AD745FFB9F40"/>
 be willing their Father should leave them? he is a Husband, <hi>Isai.</hi> 54 5. <hi>For thy Maker is thy Hus<g ref="char:EOLhyphen"/>band,</hi> a loving, careful, tender husband too; can the Wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e be willing to part with her Husband? if the Lord forsake us we are bereft of our friend, left friendless, he is all fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -938,7 +940,7 @@ be willing their Father should leave them? he is a Husband, <hi>Isai.</hi> 54 5.
                   <desc>•</desc>
                </gap>.</p>
             <p>
-               <pb n="19" facs="tcp:000330_0023_0FA4AD74845F4728"/>When a People are humble the Lord <gap reason="illegible" resp="#PDCC" extent="1 span">
+               <pb n="19" facs="unknown:000330_0023_0FA4AD74845F4728"/>When a People are humble the Lord <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> with them. If our immunities, which are <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -955,7 +957,7 @@ be willing their Father should leave them? he is a Husband, <hi>Isai.</hi> 54 5.
                </gap>er did devour the less. Some are like wild Beasts, like Wolves that tear off the fleece, and eat the flesh of the Flocks. There is more ju<g ref="char:EOLhyphen"/>stice to be found in hell, then amongst some men on earth: for there is no innocent person op<g ref="char:EOLhyphen"/>pressed there.</p>
             <p n="4">4. <hi>Weariness of Gods Ordinances.</hi> Amos 8.5. <hi>When will the Sabbath be done?</hi> They that are weary of the service of God, and the Ordinan<g ref="char:EOLhyphen"/>ces of God, they are weary of God. God in<g ref="char:EOLhyphen"/>deed hath fed us to the full, as to Ordinances: and we are glutted, and surfeited, and have lost our esteem.</p>
             <p>
-               <pb n="20" facs="tcp:000330_0024_0FA4AD7536489B40"/>
+               <pb n="20" facs="unknown:000330_0024_0FA4AD7536489B40"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> mens Commodities bare but a little price <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -969,7 +971,7 @@ be willing their Father should leave them? he is a Husband, <hi>Isai.</hi> 54 5.
             </p>
             <p n="6">6. Idolatry, which is Spiritual Adultery, and is there nothing of this? chusing of new Gods.</p>
             <p n="7">7. Incorrigibleness, or opposition of a spirit of reformation. When God calls to a People to return, by repentance, but they will go on still in their sin: God calls to them by his judg<g ref="char:EOLhyphen"/>ments, and by his Rod; but they will not hear, as 'tis <hi>Ier.</hi> 5.3. <hi>Thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive Correction: they have made their faces harder than a Rock, they have re<g ref="char:EOLhyphen"/>fused to return.</hi> When it is thus with a People, God will pluck up and be gone; so <hi>Ier.</hi> 7.13, 14 <hi>Because they would not hear, and would not answer the call of God, I will do to this house, as I did to Shiloh,</hi> why? what did the Lord do to Shiloh? ver. 12. <hi>Go to Shiloh, and see what I did to it, for the wickedness of my People Israel.</hi> Go, and view it, and you will see what he did, he left tokens of
-<pb n="21" facs="tcp:000330_0025_0FA4AD76191514E0"/>
+<pb n="21" facs="unknown:000330_0025_0FA4AD76191514E0"/>
 his wrath upon them, and forsook them.</p>
             <p n="2">2. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -1035,7 +1037,7 @@ his wrath upon them, and forsook them.</p>
                </gap>ccount thereof. May the Lord hear his People from <hi>Dan</hi> to <hi>Beersheba</hi> bemoan<g ref="char:EOLhyphen"/>ing themselves, <hi>Ephraim</hi> like, then the Lord will hear, and have mercy, and not leave us, for his Names sake.</p>
             <p n="2">2. Judge your selves worthy to be forsaken, because of your forsaking of him. If you judge
 <pb n="22"
-                   facs="tcp:000330_0026_0FA4AD76AE125790"
+                   facs="unknown:000330_0026_0FA4AD76AE125790"
                    rendition="simple:additions"/>
 yourselves wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
